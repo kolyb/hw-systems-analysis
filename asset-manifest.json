@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw-systems-analysis/static/css/main.7b9a1b82.css",
-    "main.js": "/hw-systems-analysis/static/js/main.dd843db8.js",
+    "main.js": "/hw-systems-analysis/static/js/main.bc0b45c0.js",
     "static/js/453.87904949.chunk.js": "/hw-systems-analysis/static/js/453.87904949.chunk.js",
     "static/media/Kanban.png": "/hw-systems-analysis/static/media/Kanban.ba9c7e87c069af83aee1.png",
     "static/media/Scrum_Kanban.png": "/hw-systems-analysis/static/media/Scrum_Kanban.d2236f310f74e8f357e6.png",
@@ -10,11 +10,11 @@
     "static/media/sequence.svg": "/hw-systems-analysis/static/media/sequence.df416cf74dd9c6c324e3892ec9365204.svg",
     "index.html": "/hw-systems-analysis/index.html",
     "main.7b9a1b82.css.map": "/hw-systems-analysis/static/css/main.7b9a1b82.css.map",
-    "main.dd843db8.js.map": "/hw-systems-analysis/static/js/main.dd843db8.js.map",
+    "main.bc0b45c0.js.map": "/hw-systems-analysis/static/js/main.bc0b45c0.js.map",
     "453.87904949.chunk.js.map": "/hw-systems-analysis/static/js/453.87904949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b9a1b82.css",
-    "static/js/main.dd843db8.js"
+    "static/js/main.bc0b45c0.js"
   ]
 }
