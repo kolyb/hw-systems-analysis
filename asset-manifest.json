@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/hw-systems-analysis/static/css/main.7b9a1b82.css",
-    "main.js": "/hw-systems-analysis/static/js/main.2a39c6d8.js",
+    "main.js": "/hw-systems-analysis/static/js/main.e9b0e622.js",
     "static/js/453.87904949.chunk.js": "/hw-systems-analysis/static/js/453.87904949.chunk.js",
     "static/media/Kanban.png": "/hw-systems-analysis/static/media/Kanban.ba9c7e87c069af83aee1.png",
     "static/media/Scrum_Kanban.png": "/hw-systems-analysis/static/media/Scrum_Kanban.d2236f310f74e8f357e6.png",
-    "static/media/activity.svg": "/hw-systems-analysis/static/media/activity.39aeaadb686e38e48da579afc79195b8.svg",
-    "static/media/sequence.svg": "/hw-systems-analysis/static/media/sequence.edfc7c4fe06da6e1ef7641e8b9e727c6.svg",
-    "static/media/useCase.svg": "/hw-systems-analysis/static/media/useCase.70387187971b120027c92f485aa383ff.svg",
+    "static/media/activity.svg": "/hw-systems-analysis/static/media/activity.25df580d23f1e9e08caa0bfbdcc01d91.svg",
+    "static/media/sequence.svg": "/hw-systems-analysis/static/media/sequence.4731a65dec5947966853af94fb77f53a.svg",
+    "static/media/useCase.svg": "/hw-systems-analysis/static/media/useCase.933517fc2a23e37c665d82b27f5ff473.svg",
     "index.html": "/hw-systems-analysis/index.html",
     "main.7b9a1b82.css.map": "/hw-systems-analysis/static/css/main.7b9a1b82.css.map",
-    "main.2a39c6d8.js.map": "/hw-systems-analysis/static/js/main.2a39c6d8.js.map",
+    "main.e9b0e622.js.map": "/hw-systems-analysis/static/js/main.e9b0e622.js.map",
     "453.87904949.chunk.js.map": "/hw-systems-analysis/static/js/453.87904949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b9a1b82.css",
-    "static/js/main.2a39c6d8.js"
+    "static/js/main.e9b0e622.js"
   ]
 }
